@@ -1,0 +1,2 @@
+SELECT * FROM `bracketology.predictions`
+WHERE predicted_label <> label
