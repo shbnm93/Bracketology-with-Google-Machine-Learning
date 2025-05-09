@@ -1,0 +1,1 @@
+SELECT * FROM `data-to-insights.ncaa.2019_tournament_seeds` WHERE seed = 1
