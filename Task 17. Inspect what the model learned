@@ -1,0 +1,5 @@
+SELECT
+  *
+FROM
+  ML.WEIGHTS(MODEL     `bracketology.ncaa_model_updated`)
+ORDER BY ABS(weight) DESC
