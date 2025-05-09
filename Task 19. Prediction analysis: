@@ -1,0 +1,2 @@
+SELECT * FROM `bracketology.ncaa_2018_predictions`
+WHERE predicted_label <> label
